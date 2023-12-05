@@ -1,4 +1,4 @@
-Program 1(Easy)
+Program number-->1(Easy)
 
 class Solution:
     def lengthOfLastWord(self, s: str) -> int:
@@ -10,7 +10,7 @@ class Solution:
             j -= 1
         return i - j
 
-program 1(medium)
+program number-->1(medium)
 
 class Solution:
     def lowestCommonAncestor(self, root, p, q):
@@ -26,7 +26,7 @@ class Solution:
             return left
         else:
             return root
-program 2(Hard)
+program number-->2(Hard)
 
 class Solution:
     def shortestPalindrome(self, s: str) -> str:
